@@ -70,8 +70,6 @@ print("----- Witaj w grze - Zgadnij ile mam lat -----", "\n",
 
 print ("Wylosowna osoba to:", imie_wylosowanej_osoby)
 
-proby = 7
-
 while proby > 0:
     
     podany_wiek = input("Podaj wiek: ")
